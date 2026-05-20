@@ -78,4 +78,4 @@ Documented the remaining attack surface after firewall configuration and propose
 - Network controller for topology visibility and policy enforcement
 
 ## Files
-- `lab5.pkt` — Packet Tracer file with completed secure network configuration
+- `Secure Network Design and Configuration Lab.pkt` — Packet Tracer file with completed secure network configuration
